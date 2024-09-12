@@ -1,0 +1,5 @@
+libcrc32c.so.1:_ZN6crc32c11ExtendSse42EjPKhm
+libcrc32c.so.1:_ZN6crc32c14ExtendPortableEjPKhm
+libcrc32c.so.1:_ZN6crc32c6ExtendEjPKhm
+libcrc32c.so.1:crc32c_extend
+libcrc32c.so.1:crc32c_value
